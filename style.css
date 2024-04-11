@@ -16,6 +16,14 @@ html {
   }
   
   body {
-    margin: 10px;
+    width: 65%;
+    margin: 3rem auto;
     background: #f5f9fa;
+  }
+
+  textarea  {
+    height: 100%;
+    min-height: 18rem;
+    width: 95%;
+    padding: 1rem;
   }
